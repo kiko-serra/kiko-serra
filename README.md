@@ -19,7 +19,7 @@ I'm Francisco Serra and I'm currently studying Informatics and Computing Enginee
 
 ### Stats 
  
- [![kiko-serra GitHub stats](https://github-readme-stats.vercel.app/api?username=kiko-serra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
+ [![kiko-serra GitHub stats](https://github-readme-stats.vercel.app/api?username=kiko-serra&count_private=false&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-serra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 __Contact__: 
