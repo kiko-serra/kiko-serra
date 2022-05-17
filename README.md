@@ -4,10 +4,6 @@ I'm Francisco Serra and I'm currently studying Informatics and Computing Enginee
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,css,js,cpp,c,dart,git,php,&theme=light)](https://skills.thijs.gg)
 <!-- link for icons https://github.com/tandpfun/skill-icons -->
-<br> 
-
-
-
 
 ### Stats 
  
