@@ -8,7 +8,7 @@ I'm Francisco Serra and I'm currently studying Informatics and Computing Enginee
 ### Stats 
  
  [![kiko-serra GitHub stats](https://github-readme-stats.vercel.app/api?username=kiko-serra&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-serra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-serra&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
 __Contact__: <br>
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/francisco-pimentel-serra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
