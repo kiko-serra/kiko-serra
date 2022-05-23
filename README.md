@@ -13,7 +13,7 @@ I'm Francisco Serra and I'm currently studying Informatics and Computing Enginee
 __Contact__: <br>
 <!--
 <a style="text-decoration: none;" href="https://www.linkedin.com/in/francisco-pimentel-serra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>-->
-[![My Skills](gmail.svg width="48")](mailto:franciscopimentelserra@gmail.com)
+<!--[![My Skills](gmail.svg width="48")](mailto:franciscopimentelserra@gmail.com)-->
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/francisco-pimentel-serra/)
 <a style="text-decoration: none;" href="mailto:franciscopimentelserra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
