@@ -17,3 +17,4 @@ __Contact__: <br>
 [![My Skills](https://skills.thijs.gg/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/francisco-pimentel-serra/)
 <a style="text-decoration: none;" href="mailto:franciscopimentelserra@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+<!--![](https://komarev.com/ghpvc/?username=kiko-serra&label=VISITORS)-->
