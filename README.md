@@ -2,7 +2,7 @@
 
 I'm Francisco Serra and I'm currently studying Informatics and Computing Engineering at FEUP. 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,git,php,laravel&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,git,php,laravel)](https://skills.thijs.gg)
 <!-- link for icons https://github.com/tandpfun/skill-icons -->
 
 ### Stats 
