@@ -4,7 +4,7 @@ I'm Francisco Serra and I'm currently studying Informatics and Computing Enginee
 
 <img src="https://komarev.com/ghpvc/?username=kiko-serra&color=blue&style=for-the-badge"></img>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,git,php,laravel,react,nextjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,git,php,py,laravel,react,nextjs,docker&perline=4)](https://skills.thijs.gg)
 <!-- link for icons https://github.com/tandpfun/skill-icons -->
 
 ### Stats 
