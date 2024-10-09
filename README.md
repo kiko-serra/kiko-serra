@@ -2,7 +2,7 @@
 
 I'm Francisco Serra and I'm currently studying Informatics and Computing Engineering at FEUP. 
 
-<img src="https://komarev.com/ghpvc/?username=kiko-serra&color=blue&style=for-the-badge"></img>
+<!--<img src="https://komarev.com/ghpvc/?username=kiko-serra&color=blue&style=for-the-badge"></img>-->
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,cpp,git,php,laravel,react,nextjs)](https://skills.thijs.gg)
 <!-- link for icons https://github.com/tandpfun/skill-icons -->
